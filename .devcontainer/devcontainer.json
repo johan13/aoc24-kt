@@ -8,5 +8,13 @@
             "version": "none",
             "installGradle": "true"
         }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "editorconfig.editorconfig",
+                "fwcd.kotlin"
+            ]
+        }
     }
 }
